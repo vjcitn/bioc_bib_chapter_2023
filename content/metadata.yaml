@@ -7,24 +7,19 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: vjcitn
+    name: Vincent J. Carey
+    initials: VJC
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Channing Lab, Harvard 
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+  - github: seandavi
+    name: Sean Davis
+    initials: SD
+    orcid: 0000-0002-8991-6458
+    email: seandavi@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - University of Colorado Anschutz School of Medicine 
     corresponding: true
