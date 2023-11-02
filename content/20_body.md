@@ -1,6 +1,16 @@
 ## Results
 
+| Package | Category  | Reference  |
+|:-----------|:--------------------------------------:|:-------------:|
+| GEOquery | Access NCBI Gene Expression Omnibus | [@pubmed:17496320] |
+| TCGABioLinks | Access TCGA data | [@pubmed:26704973]
+
+Table: Packages described in this review.
+{#tbl:bioc-packages}
+
 ### How Bioconductor enhances cancer data reuse and value
+
+The GEOquery package 
 
 
 ### Multiassay cancer data integration using Bioconductor (MAE + viz, iSEE)
