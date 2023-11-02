@@ -6,12 +6,19 @@
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://biocwrites.github.io/bioc_bib_chapter_2023/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/biocwrites/bioc_bib_chapter_2023/workflows/Manubot/badge.svg)](https://github.com/biocwrites/bioc_bib_chapter_2023/actions)
 
+## Contributing
+
+1. Fork this repository
+   1. [Optional] set up github pages to use the gh-pages branch to allow you to see the auto-built document in your own github pages site. 
+2. Edit the file(s) in `content` using one sentence per line ("semantic sentences"). Formatting, including references, are described [here](https://github.com/manubot/rootstock/blob/main/content/02.delete-me.md).
+3. Push changes to your fork
+4. Create pull request against the BiocWrites repo
+
 ## Manuscript description
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This manuscri
 
 ## Manubot
 
