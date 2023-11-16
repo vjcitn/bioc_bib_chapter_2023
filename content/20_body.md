@@ -19,13 +19,14 @@ The GEOquery package
 ### Copy number variation analysis (Workshop, DNAcopy, PureCN, CNVRanger, Sehyun, Ludwig)
 
 
-### Approaches to providing reproducible, reusable, robust software for cancer data science (VC)
+
 
 
 ### Bioconductor approaches to single-cell and spatially resolved cancer data and analysis (Workshops, Ludwig, Davide)
 
+### Approaches to providing reproducible, reusable, robust software for cancer data science (VC)
 
-### Pharmacogenomics resources in Bioconductor (Ben HK)
+<-- ### Pharmacogenomics resources in Bioconductor (Ben HK) -->
 
 
 ### bibliometrics as code (MM) -- maybe
